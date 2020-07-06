@@ -77,3 +77,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## NOTES
+# Forum
+
+1. Thread
+2. Reply
+3. User
+
+A. Thread is created by a users.
+B. A reply belongs to a thread, and belongs to a user.
